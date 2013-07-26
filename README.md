@@ -10,7 +10,7 @@ about latinamerican countries and languages.
 
 - **alvaro_uribe_speeches_2007_2010**: Political speeches made by Colombian President Alvaro Uribe between 2007 and 2010.  
 
-- **santos_speeches_2010_2013**:Political speeches made by Colombian President Alvaro Uribe between 2007 and 2010. 
+- **santos_speeches_2010_2013**:Political speeches made by Colombian President Juan Manuel Santos between 2007 and 2010. 
 
 ## Dictionaries
 
